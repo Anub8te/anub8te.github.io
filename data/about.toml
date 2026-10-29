@@ -1,0 +1,20 @@
+# Edit the short introduction in content/about.md.
+# Findings come automatically from data/advisories.toml and data/cves.toml.
+[[focus]]
+title = 'Vulnerability research'
+icon = 'search'
+description = 'Following unexpected behavior back to the assumption that broke.'
+[[focus]]
+title = 'Binary exploitation'
+icon = 'code'
+description = 'Memory, primitives, and the details hiding below the abstraction.'
+[[focus]]
+title = 'Fuzzing'
+icon = 'folder'
+description = 'Interesting inputs. Strange crashes. A debugger waiting nearby.'
+[off_duty]
+title = 'Save point.'
+description = 'Outside security research, I enjoy games, anime, and learning new things.'
+interests = ['Anime', 'Games', 'Learning']
+japanese = 'まだ、冒険の途中。'
+translation = 'Still in the middle of the adventure.'
